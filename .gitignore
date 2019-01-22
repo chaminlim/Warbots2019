@@ -22,4 +22,5 @@
 hs_err_pid*
 
 #Compiled Code
-build/
+.gradle
+/build/
