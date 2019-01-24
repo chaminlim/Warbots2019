@@ -13,12 +13,12 @@ The Software for the 2019 FRC Team 620 Robot
   * Compile and test GRIP on RasbPI
 * GitHub Master – Sam Parker 1/25
 * Documentation – Chamin Lim
-* Prepare Taz for drive team – 
+* Prepare Taz for drive team –
   * Get one single laptop setup for drive station -- Chase Bowen
   * Pull old code from GitHub, move it into new system – Sam Parker
   * Update firmware and image on RoboRio – Chamin Lim
   * Create program for drive team -- Sareena
-* PathPlanner for Sandstorm - 
+* PathPlanner for Sandstorm -
 
 ## Scenarios for Scoring ##
 1. Load a Hatch from Loading Station (Load and automatically back away))
@@ -48,7 +48,7 @@ The Software for the 2019 FRC Team 620 Robot
 * `getConfidence` – get confidence factor of line in view
 
 ### DriveTrain ###
-* `drive (vel, acc)` – start driving at specified velocity and acceleration 
+* `drive (vel, acc)` – start driving at specified velocity and acceleration
 * `turn (vel, acc)` – start turning at specified velocity and acceleration
 * `driveDistance (dist, vel, acc)` – drive specified distance
 * `turnAngle (ang, vel, acc)` – turn specified angle
@@ -189,7 +189,7 @@ The Software for the 2019 FRC Team 620 Robot
   * White tape
   * Raspberry Pi
   * Gyroscope
-* Motor Control 
+* Motor Control
   * Neo-motors (x4)
   * Spark Max (x4)
   * Wheel Encoders
